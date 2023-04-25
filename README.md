@@ -15,7 +15,9 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Cezary Kaliszyk, Josef Urban, Henryk Michalewski, Miroslav Olšák*
 
+- **GamePad: A Learning Environment for Theorem Proving.** *ICLR 2019* [[pdf](https://openreview.net/pdf?id=r1xwKoR9Y7)] [[code](https://github.com/ml4tp/gamepad)]
 
+    *Daniel Huang, Prafulla Dhariwal, Dawn Song, Ilya Sutskever*
 
 - **HOList: An Environment for Machine Learning of Higher Order Logic Theorem Proving.** *ICML 2019* [[pdf](http://proceedings.mlr.press/v97/bansal19a/bansal19a.pdf)] [[dataset](https://sites.google.com/view/holist/home)]
 
@@ -115,7 +117,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
 
 
-## Datasets
+## Benchmarks
 
 
 - **Learning to Prove Theorems via Interacting with Proof Assistants.** *ICML 2019* [[pdf](http://proceedings.mlr.press/v97/yang19a/yang19a.pdf)] [[code](https://github.com/princeton-vl/CoqGym)]
@@ -127,6 +129,9 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Kshitij Bansal, Sarah Loos, Markus Rabe, Christian Szegedy, Stewart Wilcox*
 
+- **IsarStep: a Benchmark for High-level Mathematical Reasoning.** *ICLR 2021* [[pdf](https://openreview.net/pdf?id=Pzj6fzU6wkj)] [[code](https://github.com/Wenda302/IsarStep)]
+
+    *Wenda Li, Lei Yu, Yuhuai Wu, Lawrence C. Paulson*
 
 - **INT: An Inequality Benchmark for Evaluating Generalization in Theorem Proving.** *ICLR 2021* [[pdf](https://openreview.net/pdf?id=O6LPudowNQm)] [[code](https://github.com/albertqjiang/INT)]
 
