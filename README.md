@@ -81,6 +81,14 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 - **Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs.** *ICLR 2023* [[pdf](https://openreview.net/pdf?id=SMa9EAovKMC)] [[code](https://github.com/albertqjiang/draft_sketch_prove)]
 
     *Albert Qiaochu Jiang, Sean Welleck, Jin Peng Zhou, Timothee Lacroix, Jiacheng Liu, Wenda Li, Mateja Jamnik, Guillaume Lample, Yuhuai Wu*
+    
+- **Decomposing the Enigma: Subgoal-based Demonstration Learning for Formal Theorem Proving.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2305.16366.pdf)] [[code](https://github.com/HKUNLP/subgoal-theorem-prover)]
+
+    *Xueliang Zhao, Wenda Li, Lingpeng Kong*
+
+
+
+
 
 ## Synthetic Theorem Generation
 
