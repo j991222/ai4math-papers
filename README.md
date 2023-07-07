@@ -86,6 +86,10 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Xueliang Zhao, Wenda Li, Lingpeng Kong*
 
+- **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2306.15626.pdf)] [[code](https://github.com/lean-dojo)]
+
+    *Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar*
+
 
 
 
@@ -157,7 +161,9 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Zhangir Azerbayev, Bartosz Piotrowski, Hailey Schoelkopf, Edward W. Ayers, Dragomir Radev, Jeremy Avigad*
 
+- **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2306.15626.pdf)] [[code](https://github.com/lean-dojo)]
 
+    *Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar*
 
 
 ## Human-in-the-loop
