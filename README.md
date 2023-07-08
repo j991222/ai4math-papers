@@ -81,6 +81,10 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 - **Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs.** *ICLR 2023* [[pdf](https://openreview.net/pdf?id=SMa9EAovKMC)] [[code](https://github.com/albertqjiang/draft_sketch_prove)]
 
     *Albert Qiaochu Jiang, Sean Welleck, Jin Peng Zhou, Timothee Lacroix, Jiacheng Liu, Wenda Li, Mateja Jamnik, Guillaume Lample, Yuhuai Wu*
+
+- **Magnushammer: A Transformer-based Approach to Premise Selection.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2303.04488.pdf)]
+
+    *Maciej Mikuła, Szymon Antoniak, Szymon Tworkowski, Albert Qiaochu Jiang, Jin Peng Zhou, Christian Szegedy, Łukasz Kuciński, Piotr Miłoś, Yuhuai Wu*
     
 - **Decomposing the Enigma: Subgoal-based Demonstration Learning for Formal Theorem Proving.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2305.16366.pdf)] [[code](https://github.com/HKUNLP/subgoal-theorem-prover)]
 
@@ -160,6 +164,10 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 - **ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2302.12433.pdf)] [[code](https://github.com/zhangir-azerbayev/proofnet)]
 
     *Zhangir Azerbayev, Bartosz Piotrowski, Hailey Schoelkopf, Edward W. Ayers, Dragomir Radev, Jeremy Avigad*
+
+- **Evaluating Language Models for Mathematics through Interactions.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2306.01694.pdf)] [[code](https://github.com/collinskatie/checkmate/tree/main)]
+
+    *Katherine M. Collins, Albert Q. Jiang, Simon Frieder, Lionel Wong, Miri Zilka, Umang Bhatt, Thomas Lukasiewicz, Yuhuai Wu, Joshua B. Tenenbaum, William Hart, Timothy Gowers, Wenda Li, Adrian Weller, Mateja Jamnik*
 
 - **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2306.15626.pdf)] [[code](https://github.com/lean-dojo)]
 
