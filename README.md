@@ -82,6 +82,10 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Albert Qiaochu Jiang, Sean Welleck, Jin Peng Zhou, Timothee Lacroix, Jiacheng Liu, Wenda Li, Mateja Jamnik, Guillaume Lample, Yuhuai Wu*
 
+- **Machine-Learned Premise Selection for Lean** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2304.00994.pdf)] [[code](https://github.com/BartoszPiotrowski/lean-premise-selection)]
+
+    *Bartosz Piotrowski, Ramon Fernández Mir, Edward Ayers*
+
 - **Magnushammer: A Transformer-based Approach to Premise Selection.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2303.04488.pdf)]
 
     *Maciej Mikuła, Szymon Antoniak, Szymon Tworkowski, Albert Qiaochu Jiang, Jin Peng Zhou, Christian Szegedy, Łukasz Kuciński, Piotr Miłoś, Yuhuai Wu*
@@ -94,7 +98,9 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar*
 
+- **DT-Solver: Automated Theorem Proving with Dynamic-Tree Sampling Guided by Proof-level Value Function.** *ACL 2023* [[pdf](https://aclanthology.org/2023.acl-long.706.pdf)]
 
+    *Haiming Wang, Ye Yuan, Zhengying Liu, Jianhao Shen, Yichun Yin, Jing Xiong, Enze Xie, Han Shi, Yujun Li, Lin Li, Jian Yin, Zhenguo Li, Xiaodan Liang*
 
 
 
