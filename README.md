@@ -82,6 +82,10 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Albert Qiaochu Jiang, Sean Welleck, Jin Peng Zhou, Timothee Lacroix, Jiacheng Liu, Wenda Li, Mateja Jamnik, Guillaume Lample, Yuhuai Wu*
 
+- **Baldur: Whole-Proof Generation and Repair with Large Language Models** *arxiv preprint 2023* [[pdf](https://arxiv.org/pdf/2303.04910.pdf)]
+
+    *Emily First, Markus N. Rabe, Talia Ringer, Yuriy Brun*
+
 - **Machine-Learned Premise Selection for Lean** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2304.00994.pdf)] [[code](https://github.com/BartoszPiotrowski/lean-premise-selection)]
 
     *Bartosz Piotrowski, Ramon Fernández Mir, Edward Ayers*
