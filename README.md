@@ -183,6 +183,10 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar*
 
+- **FIMO: A Challenge Formal Dataset for Automated Theorem Proving.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2309.04295.pdf)]
+
+    *Chengwu Liu, Jianhao Shen, Huajian Xin, Zhengying Liu, Ye Yuan, Haiming Wang, Wei Ju, Chuanyang Zheng, Yichun Yin, Lin Li, Ming Zhang, Qun Liu*
+
 
 ## Human-in-the-loop
 - **Advancing mathematics by guiding human intuition with AI.** *Nature 2021* [[pdf](https://www.nature.com/articles/s41586-021-04086-x)]
