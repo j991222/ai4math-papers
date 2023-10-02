@@ -106,6 +106,9 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Haiming Wang, Ye Yuan, Zhengying Liu, Jianhao Shen, Yichun Yin, Jing Xiong, Enze Xie, Han Shi, Yujun Li, Lin Li, Jian Yin, Zhenguo Li, Xiaodan Liang*
 
+- **Lyra: Orchestrating Dual Correction in Automated Theorem Proving.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2309.15806.pdf)] [[code](https://github.com/chuanyang-Zheng/Lyra-theorem-prover)]
+
+    *Chuanyang Zheng, Haiming Wang, Enze Xie, Zhengying Liu, Jiankai Sun, Huajian Xin, Jianhao Shen, Zhenguo Li, Yu Li*
 
 
 ## Synthetic Theorem Generation
