@@ -110,6 +110,10 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Chuanyang Zheng, Haiming Wang, Enze Xie, Zhengying Liu, Jiankai Sun, Huajian Xin, Jianhao Shen, Zhenguo Li, Yu Li*
 
+- **A Language-Agent Approach to Formal Theorem-Proving.** *arXiv preprint 2023* [[pdf](https://browse.arxiv.org/pdf/2310.04353.pdf)]
+
+    *Amitayush Thakur, Yeming Wen, Swarat Chaudhuri*
+
 
 ## Synthetic Theorem Generation
 
