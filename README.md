@@ -209,6 +209,10 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *David S. Berman, Yang-Hui He, Edward Hirst*
 
+- **Machine learning assisted exploration for affine Deligne-Lusztig varieties.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2308.11355.pdf)] [[code](https://github.com/Jinpf314/ML4ADLV/)]
+
+    *Bin Dong, Xuhua He, Pengfei Jin, Felix Schremmer, Qingchao Yu*
+
 
 ## Constructing Examples / Counterexamples
 
