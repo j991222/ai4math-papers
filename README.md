@@ -27,6 +27,10 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Kaiyu Yang, Jia Deng*
 
+- **Graph Representations for Higher-Order Logic and Theorem Proving.** *AAAI 2020* [[pdf](https://arxiv.org/pdf/1905.10006.pdf)]
+
+    *Aditya Paliwal, Sarah Loos, Markus Rabe, Kshitij Bansal, Christian Szegedy*
+
 - **Generative Language Modeling for Automated Theorem Proving.** *arXiv preprint 2020* [[pdf](https://arxiv.org/pdf/2009.03393.pdf)]
     
     *Stanislas Polu, Ilya Sutskever*
@@ -114,6 +118,14 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Amitayush Thakur, Yeming Wen, Swarat Chaudhuri*
 
+- **LEGO-Prover: Neural Theorem Proving with Growing Libraries.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2310.00656.pdf)]
+
+    *Haiming Wang, Huajian Xin, Chuanyang Zheng, Lin Li, Zhengying Liu, Qingxing Cao, Yinya Huang, Jing Xiong, Han Shi, Enze Xie, Jian Yin, Zhenguo Li, Heng Liao, Xiaodan Liang*
+
+- **LLMSTEP: LLM proofstep suggestions in Lean.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2310.18457.pdf)] [[code](https://github.com/wellecks/llmstep)]
+
+    *Sean Welleck, Rahul Saha*
+
 
 ## Synthetic Theorem Generation
 
@@ -145,7 +157,9 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Zhangir Azerbayev, Bartosz Piotrowski, Hailey Schoelkopf, Edward W. Ayers, Dragomir Radev, Jeremy Avigad*
 
+- **Multilingual Mathematical Autoformalization.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2311.03755.pdf)] [[code](https://github.com/albertqjiang/MMA)]
 
+    *Albert Q. Jiang, Wenda Li, Mateja Jamnik*
 
 
 
@@ -193,6 +207,18 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 - **FIMO: A Challenge Formal Dataset for Automated Theorem Proving.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2309.04295.pdf)]
 
     *Chengwu Liu, Jianhao Shen, Huajian Xin, Zhengying Liu, Ye Yuan, Haiming Wang, Wei Ju, Chuanyang Zheng, Yichun Yin, Lin Li, Ming Zhang, Qun Liu*
+
+- **TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2310.10180.pdf)] [[code](https://github.com/menik1126/TRIGO)]
+
+    *Jing Xiong, Jianhao Shen, Ye Yuan, Haiming Wang, Yichun Yin, Zhengying Liu, Lin Li, Zhijiang Guo, Qingxing Cao, Yinya Huang, Chuanyang Zheng, Xiaodan Liang, Ming Zhang, Qun Liu*
+
+- **MLFMF: Data Sets for Machine Learning for Mathematical Formalization.** *NeurIPS 2023* [[pdf](https://arxiv.org/pdf/2310.16005.pdf)] [[code](https://github.com/ul-fmf/mlfmf-data)]
+        
+    *Andrej Bauer, Matej Petković, Ljupčo Todorovski*
+
+- **FormalGeo: The First Step Toward Human-like IMO-level Geometric Automated Reasoning.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2310.18021.pdf)] [[code](https://github.com/BitSecret/FormalGeo)]
+
+    *Xiaokai Zhang, Na Zhu, Yiming He, Jia Zou, Qike Huang, Xiaoxiao Jin, Yanjun Guo, Chenyang Mao, Zhe Zhu, Dengfeng Yue, Fangzhen Zhu, Yang Li, Yifan Wang, Yiwen Huang, Runan Wang, Cheng Qin, Zhenbing Zeng, Shaorong Xie, Xiangfeng Luo, Tuo Leng*
 
 
 ## Human-in-the-loop
