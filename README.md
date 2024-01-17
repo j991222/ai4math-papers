@@ -126,6 +126,13 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Sean Welleck, Rahul Saha*
 
+- **Temperature-scaled large language models for Lean proofstep prediction.** *The 3rd Workshop on Mathematical Reasoning and AI at NeurIPS 2023* [[pdf](https://mathai2023.github.io/papers/25.pdf)]
+
+    *Fabian Gloeckle, Baptiste Roziere, Amaury Hayat, Gabriel Synnaeve*
+
+- **Graph2Tac: Learning Hierarchical Representations of Math Concepts in Theorem proving.** *arXiv preprint 2024* [[pdf](https://arxiv.org/pdf/2401.02949.pdf)] [[code](https://github.com/IBM/graph2tac)]
+
+    *Jason Rute, Miroslav Olšák, Lasse Blaauwbroek, Fidel Ivan Schaposnik Massolo, Jelle Piepenbrock, Vasily Pestun*
 
 ## Synthetic Theorem Generation
 
