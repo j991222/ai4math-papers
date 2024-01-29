@@ -134,6 +134,11 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Jason Rute, Miroslav Olšák, Lasse Blaauwbroek, Fidel Ivan Schaposnik Massolo, Jelle Piepenbrock, Vasily Pestun*
 
+- **Solving olympiad geometry without human demonstrations.** *Nature 2024* [[pdf](https://www.nature.com/articles/s41586-023-06747-5)][[code](https://github.com/google-deepmind/alphageometry)]
+
+    *Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He, Thang Luong*
+
+
 ## Synthetic Theorem Generation
 
 - **Learning to Prove Theorems by Learning to Generate Theorems.** *NeurIPS 2020* [[pdf](https://proceedings.neurips.cc/paper/2020/file/d2a27e83d429f0dcae6b937cf440aeb1-Paper.pdf)] [[code](https://github.com/princeton-vl/MetaGen)]
@@ -144,7 +149,9 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Yuhuai Wu, Albert Q. Jiang, Jimmy Ba, Roger Grosse*
 
+- **Solving olympiad geometry without human demonstrations.** *Nature 2024* [[pdf](https://www.nature.com/articles/s41586-023-06747-5)][[code](https://github.com/google-deepmind/alphageometry)]
 
+    *Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He, Thang Luong*
 
 
 ## Autoformalization
@@ -256,3 +263,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 - **Searching for ribbons with machine learning.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2304.09304.pdf)]
 
     *Sergei Gukov, James Halverson, Ciprian Manolescu, Fabian Ruehle*
+
+- **Mathematical discoveries from program search with large language models.** *Nature 2024* [[pdf](https://www.nature.com/articles/s41586-023-06924-6)][[code](https://github.com/google-deepmind/funsearch)]
+
+    *Bernardino Romera-Paredes, Mohammadamin Barekatain, Alexander Novikov, Matej Balog, M. Pawan Kumar, Emilien Dupont, Francisco J. R. Ruiz, Jordan S. Ellenberg, Pengming Wang, Omar Fawzi, Pushmeet Kohli, Alhussein Fawzi*
