@@ -1,5 +1,14 @@
 # AI for Mathematics (AI4Math) Papers
 
+## Table of Contents
+
+- [Automated Theorem Proving](#automated-theorem-proving)
+- [Synthetic Theorem Generation](#synthetic-theorem-generation)
+- [Autoformalization](#autoformalization)
+- [Benchmarks](#benchmarks)
+- [Human-in-the-loop](#human-in-the-loop)
+- [Constructing Examples / Counterexamples](#constructing-examples--counterexamples)
+
 ## Automated Theorem Proving
 
 - **Holophrasm: a neural Automated Theorem Prover for higher-order logic.** *arXiv preprint 2016* [[pdf](https://arxiv.org/pdf/1608.02644.pdf)]
