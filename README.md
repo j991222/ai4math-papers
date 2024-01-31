@@ -103,7 +103,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Bartosz Piotrowski, Ramon Fernández Mir, Edward Ayers*
 
-- **Magnushammer: A Transformer-based Approach to Premise Selection.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2303.04488.pdf)]
+- **Magnushammer: A Transformer-based Approach to Premise Selection.** *ICLR 2024* [[pdf](https://arxiv.org/pdf/2303.04488.pdf)]
 
     *Maciej Mikuła, Szymon Antoniak, Szymon Tworkowski, Albert Qiaochu Jiang, Jin Peng Zhou, Christian Szegedy, Łukasz Kuciński, Piotr Miłoś, Yuhuai Wu*
     
@@ -111,7 +111,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Xueliang Zhao, Wenda Li, Lingpeng Kong*
 
-- **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2306.15626.pdf)] [[code](https://github.com/lean-dojo)]
+- **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.** *NeurIPS 2023 Datasets and Benchmarks Track* [[pdf](https://arxiv.org/pdf/2306.15626.pdf)] [[code](https://github.com/lean-dojo)]
 
     *Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar*
 
@@ -127,11 +127,11 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Amitayush Thakur, Yeming Wen, Swarat Chaudhuri*
 
-- **LEGO-Prover: Neural Theorem Proving with Growing Libraries.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2310.00656.pdf)]
+- **LEGO-Prover: Neural Theorem Proving with Growing Libraries.** *ICLR 2024* [[pdf](https://arxiv.org/pdf/2310.00656.pdf)]
 
     *Haiming Wang, Huajian Xin, Chuanyang Zheng, Lin Li, Zhengying Liu, Qingxing Cao, Yinya Huang, Jing Xiong, Han Shi, Enze Xie, Jian Yin, Zhenguo Li, Heng Liao, Xiaodan Liang*
 
-- **LLMSTEP: LLM proofstep suggestions in Lean.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2310.18457.pdf)] [[code](https://github.com/wellecks/llmstep)]
+- **LLMSTEP: LLM proofstep suggestions in Lean.** *The 3rd Workshop on Mathematical Reasoning and AI at NeurIPS 2023* [[pdf](https://arxiv.org/pdf/2310.18457.pdf)] [[code](https://github.com/wellecks/llmstep)]
 
     *Sean Welleck, Rahul Saha*
 
@@ -223,7 +223,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Katherine M. Collins, Albert Q. Jiang, Simon Frieder, Lionel Wong, Miri Zilka, Umang Bhatt, Thomas Lukasiewicz, Yuhuai Wu, Joshua B. Tenenbaum, William Hart, Timothy Gowers, Wenda Li, Adrian Weller, Mateja Jamnik*
 
-- **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2306.15626.pdf)] [[code](https://github.com/lean-dojo)]
+- **LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.** *NeurIPS 2023 Datasets and Benchmarks Track* [[pdf](https://arxiv.org/pdf/2306.15626.pdf)] [[code](https://github.com/lean-dojo)]
 
     *Kaiyu Yang, Aidan M. Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan Prenger, Anima Anandkumar*
 
@@ -231,7 +231,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Chengwu Liu, Jianhao Shen, Huajian Xin, Zhengying Liu, Ye Yuan, Haiming Wang, Wei Ju, Chuanyang Zheng, Yichun Yin, Lin Li, Ming Zhang, Qun Liu*
 
-- **TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2310.10180.pdf)] [[code](https://github.com/menik1126/TRIGO)]
+- **TRIGO: Benchmarking Formal Mathematical Proof Reduction for Generative Language Models.** *EMNLP 2023* [[pdf](https://arxiv.org/pdf/2310.10180.pdf)] [[code](https://github.com/menik1126/TRIGO)]
 
     *Jing Xiong, Jianhao Shen, Ye Yuan, Haiming Wang, Yichun Yin, Zhengying Liu, Lin Li, Zhijiang Guo, Qingxing Cao, Yinya Huang, Chuanyang Zheng, Xiaodan Liang, Ming Zhang, Qun Liu*
 
