@@ -6,6 +6,7 @@
 - [Synthetic Theorem Generation](#synthetic-theorem-generation)
 - [Autoformalization](#autoformalization)
 - [Proof Refactoring](#proof-refactoring)
+- [Premise Selection](#premise-selection)
 - [Benchmarks](#benchmarks)
 - [Human-in-the-loop](#human-in-the-loop)
 - [Constructing Examples / Counterexamples](#constructing-examples--counterexamples)
