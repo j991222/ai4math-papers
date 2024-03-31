@@ -5,6 +5,7 @@
 - [Automated Theorem Proving](#automated-theorem-proving)
 - [Synthetic Theorem Generation](#synthetic-theorem-generation)
 - [Autoformalization](#autoformalization)
+- [Proof Refactoring](#proof-refactoring)
 - [Benchmarks](#benchmarks)
 - [Human-in-the-loop](#human-in-the-loop)
 - [Constructing Examples / Counterexamples](#constructing-examples--counterexamples)
@@ -98,14 +99,6 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 - **Baldur: Whole-Proof Generation and Repair with Large Language Models** *arxiv preprint 2023* [[pdf](https://arxiv.org/pdf/2303.04910.pdf)]
 
     *Emily First, Markus N. Rabe, Talia Ringer, Yuriy Brun*
-
-- **Machine-Learned Premise Selection for Lean** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2304.00994.pdf)] [[code](https://github.com/BartoszPiotrowski/lean-premise-selection)]
-
-    *Bartosz Piotrowski, Ramon Fernández Mir, Edward Ayers*
-
-- **Magnushammer: A Transformer-based Approach to Premise Selection.** *ICLR 2024* [[pdf](https://arxiv.org/pdf/2303.04488.pdf)]
-
-    *Maciej Mikuła, Szymon Antoniak, Szymon Tworkowski, Albert Qiaochu Jiang, Jin Peng Zhou, Christian Szegedy, Łukasz Kuciński, Piotr Miłoś, Yuhuai Wu*
     
 - **Decomposing the Enigma: Subgoal-based Demonstration Learning for Formal Theorem Proving.** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2305.16366.pdf)] [[code](https://github.com/HKUNLP/subgoal-theorem-prover)]
 
@@ -127,7 +120,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Amitayush Thakur, Yeming Wen, Swarat Chaudhuri*
 
-- **LEGO-Prover: Neural Theorem Proving with Growing Libraries.** *ICLR 2024* [[pdf](https://arxiv.org/pdf/2310.00656.pdf)]
+- **LEGO-Prover: Neural Theorem Proving with Growing Libraries.** *ICLR 2024* [[pdf](https://arxiv.org/pdf/2310.00656.pdf)] [[code](https://github.com/wiio12/LEGO-Prover)]
 
     *Haiming Wang, Huajian Xin, Chuanyang Zheng, Lin Li, Zhengying Liu, Qingxing Cao, Yinya Huang, Jing Xiong, Han Shi, Enze Xie, Jian Yin, Zhenguo Li, Heng Liao, Xiaodan Liang*
 
@@ -184,11 +177,48 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Albert Q. Jiang, Wenda Li, Mateja Jamnik*
 
+## Proof Refactoring
 
+
+- **REFACTOR: Learning to Extract Theorems from Proofs.** *ICLR 2024* [[pdf](https://arxiv.org/pdf/2402.17032.pdf)] [[code](https://github.com/jinpz/refactor)]
+
+    *Jin Peng Zhou, Yuhuai Wu, Qiyang Li, Roger Grosse*
+
+
+## Premise Selection
+
+
+- **DeepMath - Deep Sequence Models for Premise Selection.** *NeurIPS 2016* [[pdf](https://proceedings.neurips.cc/paper/2016/file/f197002b9a0853eca5e046d9ca4663d5-Paper.pdf)]
+
+    *Alex A. Alemi, Francois Chollet, Niklas Een, Geoffrey Irving, Christian Szegedy, Josef Urban*
+
+- **Premise Selection for Theorem Proving by Deep Graph Embedding.** *NeurIPS 2017* [[pdf](https://proceedings.neurips.cc/paper_files/paper/2017/file/18d10dc6e666eab6de9215ae5b3d54df-Paper.pdf)]
+
+    *Mingzhe Wang, Yihe Tang, Jian Wang, Jia Deng*
+
+- **Natural Language Premise Selection: Finding Supporting Statements for Mathematical Text.** *LREC 2020* [[pdf](https://aclanthology.org/2020.lrec-1.266.pdf)] [[code](https://github.com/debymf/nl-ps)]
+
+    *Deborah Ferreira, André Freitas*
+
+- **Premise Selection in Natural Language Mathematical Texts.** *ACL 2020* [[pdf](https://aclanthology.org/2020.acl-main.657.pdf)]
+
+    *Deborah Ferreira, André Freitas*
+
+- **Machine-Learned Premise Selection for Lean** *arXiv preprint 2023* [[pdf](https://arxiv.org/pdf/2304.00994.pdf)] [[code](https://github.com/BartoszPiotrowski/lean-premise-selection)]
+
+    *Bartosz Piotrowski, Ramon Fernández Mir, Edward Ayers*
+
+- **Magnushammer: A Transformer-based Approach to Premise Selection.** *ICLR 2024* [[pdf](https://arxiv.org/pdf/2303.04488.pdf)]
+
+    *Maciej Mikuła, Szymon Antoniak, Szymon Tworkowski, Albert Qiaochu Jiang, Jin Peng Zhou, Christian Szegedy, Łukasz Kuciński, Piotr Miłoś, Yuhuai Wu*
 
 
 ## Benchmarks
 
+
+- **HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving.** *ICLR 2017* [[pdf](https://openreview.net/pdf?id=ryuxYmvel)] [[dataset](http://cl-informatik.uibk.ac.at/cek/holstep/)] [[code](https://github.com/tensorflow/deepmath/tree/master/deepmath/holstep_baselines)]
+
+    *Cezary Kaliszyk, François Chollet, Christian Szegedy*
 
 - **Learning to Prove Theorems via Interacting with Proof Assistants.** *ICML 2019* [[pdf](http://proceedings.mlr.press/v97/yang19a/yang19a.pdf)] [[code](https://github.com/princeton-vl/CoqGym)]
 
