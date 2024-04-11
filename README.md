@@ -156,6 +156,14 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He, Thang Luong*
 
+- **MUSTARD: Mastering Uniform Synthesis of Theorem and Proof Data.** *ICLR 2024* [[pdf](https://openreview.net/pdf?id=8xliOUg9EW)][[code](https://github.com/Eleanor-H/MUSTARD)]
+
+    *Yinya Huang, Xiaohan Lin, Zhengying Liu, Qingxing Cao, Huajian Xin, Haiming Wang, Zhenguo Li, Linqi Song, Xiaodan Liang*
+
+
+- **ATG: Benchmarking Automated Theorem Generation for Generative Language Models.** *NAACL 2024* [[pdf](https://openreview.net/forum?id=H0RzzhAxTv)]
+
+    *Xiaohan Lin, Qingxing Cao, Yinya Huang, Zhicheng Yang, Zhengying Liu, Zhenguo Li, Xiaodan Liang*
 
 ## Autoformalization
 
@@ -274,6 +282,13 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Xiaokai Zhang, Na Zhu, Yiming He, Jia Zou, Qike Huang, Xiaoxiao Jin, Yanjun Guo, Chenyang Mao, Zhe Zhu, Dengfeng Yue, Fangzhen Zhu, Yang Li, Yifan Wang, Yiwen Huang, Runan Wang, Cheng Qin, Zhenbing Zeng, Shaorong Xie, Xiangfeng Luo, Tuo Leng*
 
+- **MUSTARD: Mastering Uniform Synthesis of Theorem and Proof Data.** *ICLR 2024* [[pdf](https://openreview.net/pdf?id=8xliOUg9EW)][[code](https://github.com/Eleanor-H/MUSTARD)]
+
+    *Yinya Huang, Xiaohan Lin, Zhengying Liu, Qingxing Cao, Huajian Xin, Haiming Wang, Zhenguo Li, Linqi Song, Xiaodan Liang*
+
+- **ATG: Benchmarking Automated Theorem Generation for Generative Language Models.** *NAACL 2024* [[pdf](https://openreview.net/forum?id=H0RzzhAxTv)]
+
+    *Xiaohan Lin, Qingxing Cao, Yinya Huang, Zhicheng Yang, Zhengying Liu, Zhenguo Li, Xiaodan Liang*
 
 ## Human-in-the-loop
 - **Advancing mathematics by guiding human intuition with AI.** *Nature 2021* [[pdf](https://www.nature.com/articles/s41586-021-04086-x)]
