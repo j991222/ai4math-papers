@@ -141,6 +141,25 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Trieu H. Trinh, Yuhuai Wu, Quoc V. Le, He He, Thang Luong*
 
+- **FGeo-TP: A Language Model-Enhanced Solver for Geometry Problems.** *Symmetry 2024* [[pdf](https://arxiv.org/pdf/2402.09047)]
+
+    *Yiming He, Jia Zou, Xiaokai Zhang, Na Zhu, Tuo Leng*
+
+- **FGeo-HyperGNet: Geometry Problem Solving Integrating Formal Symbolic System and Hypergraph Neural Network.** *arXiv preprint 2024* [[pdf](https://arxiv.org/pdf/2402.11461)][[code](https://github.com/BitSecret/HyperGNet)]
+
+    *Xiaokai Zhang, Na Zhu, Yiming He, Jia Zou, Cheng Qin, Yang Li, Zhenbing Zeng, Tuo Leng*
+
+- **FGeo-SSS: A Search-Based Symbolic Solver for Human-like Automated Geometric Reasoning.** *Symmetry 2024* [[pdf](https://www.mdpi.com/2073-8994/16/4/404)]
+
+    *Xiaokai Zhang, Na Zhu, Yiming He, Jia Zou, Cheng Qin, Yang Li, Tuo Leng*
+
+- **FGeo-DRL: Deductive Reasoning for Geometric Problems through Deep Reinforcement Learning.** *Symmetry 2024* [[pdf](https://arxiv.org/pdf/2402.09051)]
+
+    *Jia Zou, Xiaokai Zhang, Yiming He, Na Zhu, Tuo Leng*
+
+- **Wu's Method can Boost Symbolic AI to Rival Silver Medalists and AlphaGeometry to Outperform Gold Medalists at IMO Geometry.** *arXiv preprint 2024* [[pdf](https://arxiv.org/pdf/2404.06405)][[code](https://huggingface.co/datasets/bethgelab/simplegeometry)]
+
+    *Shiven Sinha, Ameya Prabhu, Ponnurangam Kumaraguru, Siddharth Bhat, Matthias Bethge*
 
 ## Synthetic Theorem Generation
 
