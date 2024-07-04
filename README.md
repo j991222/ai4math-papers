@@ -161,6 +161,14 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Shiven Sinha, Ameya Prabhu, Ponnurangam Kumaraguru, Siddharth Bhat, Matthias Bethge*
 
+- **Learn from Failure: Fine-Tuning LLMs with Trial-and-Error Data for Intuitionistic Propositional Logic Proving.** *ACL 2024* [[pdf](https://arxiv.org/pdf/2404.07382)] [[dataset](https://huggingface.co/datasets/KomeijiForce/PropL)]
+
+    *Chenyang An, Zhibo Chen, Qihao Ye, Emily First, Letian Peng, Jiayun Zhang, Zihan Wang, Sorin Lerner, Jingbo Shang*
+
+- **Proving Theorems Recursively.** *arXiv preprint 2024* [[pdf](https://arxiv.org/pdf/2405.14414)] [[code](https://github.com/wiio12/POETRY)]
+
+    *Haiming Wang, Huajian Xin, Zhengying Liu, Wenda Li, Yinya Huang, Jianqiao Lu, Zhicheng Yang, Jing Tang, Jian Yin, Zhenguo Li, Xiaodan Liang*
+
 ## Synthetic Theorem Generation
 
 - **Learning to Prove Theorems by Learning to Generate Theorems.** *NeurIPS 2020* [[pdf](https://proceedings.neurips.cc/paper/2020/file/d2a27e83d429f0dcae6b937cf440aeb1-Paper.pdf)] [[code](https://github.com/princeton-vl/MetaGen)]
