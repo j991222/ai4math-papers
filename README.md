@@ -205,6 +205,10 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Albert Q. Jiang, Wenda Li, Mateja Jamnik*
 
+- **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems.** *arXiv preprint 2024* [[pdf](https://arxiv.org/pdf/2406.03847)] [[dataset](https://huggingface.co/datasets/internlm/Lean-Workbook)] [[code](https://github.com/InternLM/InternLM-Math)]
+
+    *Huaiyuan Ying, Zijian Wu, Yihan Geng, Jiayu Wang, Dahua Lin, Kai Chen*
+
 ## Proof Refactoring
 
 
