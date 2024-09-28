@@ -339,6 +339,9 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Bin Dong, Xuhua He, Pengfei Jin, Felix Schremmer, Qingchao Yu*
 
+- **Can Transformers Do Enumerative Geometry?** *arXiv preprint 2024* [[pdf](https://www.arxiv.org/pdf/2408.14915)]
+
+    *Baran Hashemi, Roderic G. Corominas, Alessandro Giacchetto*
 
 ## Constructing Examples / Counterexamples
 
