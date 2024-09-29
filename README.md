@@ -169,6 +169,14 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Haiming Wang, Huajian Xin, Zhengying Liu, Wenda Li, Yinya Huang, Jianqiao Lu, Zhicheng Yang, Jing Tang, Jian Yin, Zhenguo Li, Xiaodan Liang*
 
+- **DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data.** *arXiv preprint 2024* [[pdf](https://arxiv.org/pdf/2405.14333)]
+
+    *Huajian Xin, Daya Guo, Zhihong Shao, Zhizhou Ren, Qihao Zhu, Bo Liu, Chong Ruan, Wenda Li, Xiaodan Liang*
+
+- **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search.** *arXiv preprint 2024* [[pdf](https://www.arxiv.org/pdf/2408.08152)] [[code](https://github.com/deepseek-ai/DeepSeek-Prover-V1.5)]
+
+    *Huajian Xin, Z.Z. Ren, Junxiao Song, Zhihong Shao, Wanjia Zhao, Haocheng Wang, Bo Liu, Liyue Zhang, Xuan Lu, Qiushi Du, Wenjun Gao, Qihao Zhu, Dejian Yang, Zhibin Gou, Z.F. Wu, Fuli Luo, Chong Ruan*
+
 ## Synthetic Theorem Generation
 
 - **Learning to Prove Theorems by Learning to Generate Theorems.** *NeurIPS 2020* [[pdf](https://proceedings.neurips.cc/paper/2020/file/d2a27e83d429f0dcae6b937cf440aeb1-Paper.pdf)] [[code](https://github.com/princeton-vl/MetaGen)]
@@ -216,6 +224,11 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 - **Lean Workbook: A large-scale Lean problem set formalized from natural language math problems.** *arXiv preprint 2024* [[pdf](https://arxiv.org/pdf/2406.03847)] [[dataset](https://huggingface.co/datasets/internlm/Lean-Workbook)] [[code](https://github.com/InternLM/InternLM-Math)]
 
     *Huaiyuan Ying, Zijian Wu, Yihan Geng, Jiayu Wang, Dahua Lin, Kai Chen*
+
+- **TheoremLlama: Transforming General-Purpose LLMs into Lean4 Experts.** *EMNLP 2024* [[pdf](https://arxiv.org/pdf/2407.03203)] [[code](https://github.com/RickySkywalker/TheoremLlama)]
+
+    *Ruida Wang, Jipeng Zhang, Yizhen Jia, Rui Pan, Shizhe Diao, Renjie Pi, Tong Zhang*
+
 
 ## Proof Refactoring
 
